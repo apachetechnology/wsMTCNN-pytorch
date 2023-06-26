@@ -28,6 +28,7 @@ image.show()
 - [pangyupo/mxnet_mtcnn_face_detection](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
 - https://github.com/kpzhang93/MTCNN_face_detection_alignment
 - https://github.com/TropComplique/mtcnn-pytorch
+- https://github.com/polarisZhao/mtcnn-pytorch
 
 ### Reference
 
