@@ -25,8 +25,6 @@ image.show()
 
 ### Credit
 
-This implementation is heavily inspired by:
-
 - [pangyupo/mxnet_mtcnn_face_detection](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
 - https://github.com/kpzhang93/MTCNN_face_detection_alignment
 - https://github.com/TropComplique/mtcnn-pytorch
